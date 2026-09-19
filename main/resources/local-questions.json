@@ -1,0 +1,106 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["London", "Berlin", "Madrid"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science",
+    "question": "The sun is a planet.",
+    "correct_answer": "False",
+    "incorrect_answers": []
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science",
+    "question": "Can cats eat dogs?",
+    "correct_answer": "False",
+    "incorrect_answers": []
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Turks can talk in?",
+    "correct_answer": "Turkish",
+    "incorrect_answers": ["English", "Arabic", "Persian"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Where is Iran?",
+    "correct_answer": "inIran",
+    "incorrect_answers": ["inUs", "InAsia", "inEurope"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "What is Lor's favorite food?",
+    "correct_answer": "Kebab",
+    "incorrect_answers": ["Pizza", "Rice", "Khoresht"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "What is the capital of Iran?",
+    "correct_answer": "Tehran",
+    "incorrect_answers": ["Esfahan", "Shiraz", "London"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Love",
+    "question": "Do you love me?",
+    "correct_answer": "True",
+    "incorrect_answers": []
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science",
+    "question": "Is Lor's favorite food kebab?",
+    "correct_answer": "True",
+    "incorrect_answers": []
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science",
+    "question": "Iran will be OK?",
+    "correct_answer": "True",
+    "incorrect_answers": []
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which river is the longest in the world?",
+    "correct_answer": "Nile",
+    "incorrect_answers": ["Amazon", "Yangtze", "Mississippi"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "incorrect_answers": ["Ag", "Gd", "Go"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "The Great Wall of China is visible from the Moon with the naked eye.",
+    "correct_answer": "False",
+    "incorrect_answers": []
+  }
+]
